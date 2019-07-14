@@ -6,6 +6,7 @@
 html, body {
 	margin: 0;
 	height: 100vh;
+	background: linear-gradient(to right, #444, #222);
 }
 
 .wrapper {
